@@ -1,7 +1,10 @@
 Here I learned how to:
 
-Create and assign VLANs across two switches
-Configure router physical interfaces (no subinterfaces yet!)
-Assign static IPs and gateways to all PCs
-Test both intra-VLAN and inter-VLAN communication
-Troubleshoot using ping, ipconfig, and show vlan
+Design a network to connect accounts and delivery departments 
+Each department has two PCs and one printer 
+
+appropriate number of switches and routers added 
+using the network address given 192.168.40.0, all interfaces must be configured with the appropriate IP addresses, subnet masks, and gateway. 
+connectivity tested
+
+Subnetting work shown. This was simply a walkthrough to demonstrate understanding. 
